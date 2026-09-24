@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raihanmiah.com/sitemap.xml
