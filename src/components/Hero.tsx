@@ -15,11 +15,6 @@ function Hero() {
           <h1>
             <span className="gradient-text">MD RAIHAN MIAH</span>
           </h1>
-          <h2>Economics & International Business Student</h2>
-          <p className="hero-description">
-            Passionate about consumer behavior, digital payments, and international business.
-            Currently studying at Moscow Polytechnic University.
-          </p>
           <div className="hero-actions">
             <button className="btn btn-primary" onClick={() => scrollToSection('contact')}>
               Get In Touch
